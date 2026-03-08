@@ -1,4 +1,4 @@
-TP 7 : Activer le 2nd-level cache, mesurer avant/après, supprimer N+1 via JOIN FETCH et entity graph
+# TP 7 : Activer le 2nd-level cache, mesurer avant/après, supprimer N+1 via JOIN FETCH et entity graph
 <img width="1874" height="939" alt="Capture d&#39;écran 2026-02-25 235627" src="https://github.com/user-attachments/assets/9be75dcb-a0e7-4c14-bf8a-13bd41d97074" />
 <img width="920" height="834" alt="Capture d&#39;écran 2026-02-25 235634" src="https://github.com/user-attachments/assets/22b5f387-223a-4b00-bedc-08a4639658d6" />
 <img width="918" height="919" alt="Capture d&#39;écran 2026-02-25 235641" src="https://github.com/user-attachments/assets/3ec584b4-b3c0-4948-ab6b-976e7ad59d0c" />
